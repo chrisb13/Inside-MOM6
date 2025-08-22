@@ -15,3 +15,4 @@ Default landing page is here
  - mkdoc-template/documentation/docs/pages/index.md
 
 Turn on rendering of GitHub Pages, go to Settings --> Pages --> `Build and deployment` for `Source` choose `Github Actions`.
+
