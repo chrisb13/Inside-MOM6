@@ -1,7 +1,8 @@
 name: silly_workflow
 on:
   push: #Action fires anytime there is a push to the following branches
-
+    branches:
+      - main
 jobs:
   set-root-url:
     runs-on: ubuntu-latest
