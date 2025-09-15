@@ -1,0 +1,10 @@
+name: silly_workflow
+on:
+  push: #Action fires anytime there is a push to the following branches
+
+jobs:
+  set-root-url:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set root url
+        run: echo 'silly'
