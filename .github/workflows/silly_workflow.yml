@@ -3,6 +3,8 @@ on:
   push: #Action fires anytime there is a push to the following branches
     branches:
       - main
+    paths:
+      - documentation/**
 jobs:
   set-root-url:
     runs-on: ubuntu-latest
