@@ -1,18 +1,5 @@
-# General Mkdoc Template
-
-A template repository for the deployment of mkdocs for model configuration documentation and tools
+# Inside MOM6
+An open source project to fearlessly peer inside MOM6. Contributions _extremely_ welcome! See rendered pages here (note case sensitive): https://cbull.info/Inside-MOM6/
 
 # Get started...
-Clone the repo 
-
-Edit the following file replacing `mkdoc-template` as appropriate and including your relevant files in the table of contents (see next point)
- - mkdoc-template/documentation/mkdocs.yml
-
-Start creating content and putting markdown files here
- - /mkdoc-template/documentation/docs/pages
-
-Default landing page is here
- - mkdoc-template/documentation/docs/pages/index.md
-
-Turn on rendering of GitHub Pages, go to Settings --> Pages --> `Build and deployment` for `Source` choose `Github Actions`.
-
+All community members are welcome to contribute or correct errors/typos. To get write access, you need to create an issue and request access. You're also welcome to make a fork and put in a pull request. 
