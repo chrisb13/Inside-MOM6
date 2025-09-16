@@ -108,7 +108,7 @@ markdown_extensions:
 # Navigation
 nav:
   - Home:                  index.md
-  - AOMSS:                 AOMSS_Lecture_Notes.md
+  - AOMSS:                 pages/AOMSS_Lecture_Notes.md
 
 # Footer
 extra:
