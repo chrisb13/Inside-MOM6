@@ -348,11 +348,6 @@ which uses
 $$h^R_{\tau-1} = h_{\tau-1} + \frac{\alpha}{2} (h_\tau - 2 h_{\tau-1} + h^R_{\tau-2})$$
 with $\alpha=0.05$.
 
-So, once you have a scheme for time-stepping, the question is how to
-choose your timestep! Timestep choices are often limited by the
-Courant-Friedrichs-Levy (CFL) limit, $$\Delta t < \frac{\Delta x}{2 c}$$
-where $c$ is the relevant wavespeed (or characteristic velocity). It's a
-necessary but not sufficient condition for stability.
 
 ## Horizontal Grids
 
